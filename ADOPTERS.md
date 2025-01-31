@@ -9,9 +9,9 @@ If you'd like to be included here, please update [this issue](https://github.com
 
 ### Mirantis, Inc.
 Website: https://mirantis.com
-Use Case: Incorporating ProjectSveltos into a future open source product. Currently still a little quiet about what exactly we are building.  More soon.
-Project name: Future
-Project website: Future
+Use Case: ProjectSveltos is a key component of k0rdent, which provides a "super control plane" for Platform Engineers to develop IDPs that can manage large fleets of Kubernetes clusters across any cloud, anywhere, as well as the workloads that run on top of them.
+Project name: k0rdent
+Project website: https://k0rdent.io
 
 ### CLASTIX Labs
 
